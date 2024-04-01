@@ -1,4 +1,11 @@
 
+
+
+
+
+
+
+
 function smallPerson(person) {
   let smallPerson = "";
   if (person[0].age < person[1].age) {
